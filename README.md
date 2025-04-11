@@ -1,0 +1,2 @@
+# AIpractice
+Just Practicing page
